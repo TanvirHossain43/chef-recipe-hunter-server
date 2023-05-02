@@ -1,7 +1,7 @@
 [
     {
         "id": 1,
-        "picture": "https://example.com/chef1.jpg",
+        "picture": "https://static5.depositphotos.com/1003434/514/i/600/depositphotos_5147838-stock-photo-attractive-smiling-cook.jpg",
         "name": "John Smith",
         "experience": 10,
         "recipes": 50,
@@ -9,7 +9,7 @@
     },
     {
         "id": 2,
-        "picture": "https://example.com/chef2.jpg",
+        "picture": "https://media.istockphoto.com/id/1142230160/photo/beautiful-chef-working-in-a-kitchen-at-a-restaurant.jpg?s=612x612&w=0&k=20&c=a_e524ohK5mfy8Ef2QyeENKQHShv7z6vv-ZztCUCeCc=",
         "name": "Maria Garcia",
         "experience": 7,
         "recipes": 30,
@@ -17,7 +17,7 @@
     },
     {
         "id": 3,
-        "picture": "https://example.com/chef3.jpg",
+        "picture": "https://img.freepik.com/free-photo/portrait-smiling-chef-uniform_329181-675.jpg?w=2000",
         "name": "David Lee",
         "experience": 5,
         "recipes": 20,
@@ -25,7 +25,7 @@
     },
     {
         "id": 4,
-        "picture": "https://example.com/chef4.jpg",
+        "picture": "https://www.escoffier.edu/wp-content/uploads/2016/02/Smiling-female-chef-with-white-hat-and-uniform-in-a-kitchen-e1611773135718.jpg",
         "name": "Sophie Chen",
         "experience": 3,
         "recipes": 10,
@@ -33,7 +33,7 @@
     },
     {
         "id": 5,
-        "picture": "https://example.com/chef5.jpg",
+        "picture": "https://chapspitbeef.com/wp-content/uploads/2018/10/celebrity-chef-tips.jpg",
         "name": "Michael Brown",
         "experience": 12,
         "recipes": 60,
@@ -41,7 +41,7 @@
     },
     {
         "id": 6,
-        "picture": "https://example.com/chef6.jpg",
+        "picture": "https://media.istockphoto.com/id/1298088270/photo/young-beautiful-smiling-woman-chef-with-arms-crossed-at-kitchen.jpg?s=612x612&w=0&k=20&c=ZtYaFLtiRkuA6mQ8HK05xjZNvpb4ev2BS9g2Uc6mdww=",
         "name": "Emily Davis",
         "experience": 8,
         "recipes": 40,
