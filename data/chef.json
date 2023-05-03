@@ -2,26 +2,29 @@
     {
         "id": 1,
         "picture": "https://static5.depositphotos.com/1003434/514/i/600/depositphotos_5147838-stock-photo-attractive-smiling-cook.jpg",
-        "name": "John Smith",
+        "name": "Vikas Khanna",
         "experience": 10,
         "recipes": 50,
-        "likes": 1000
+        "likes": 1000,
+        "bio": "Vikas Khanna is a Michelin-starred chef, restaurateur, cookbook writer, filmmaker, and humanitarian. He was born in Amritsar, India, and began his culinary career at a young age, learning to cook from his grandmother. He has since worked in some of the world's top kitchens, including The Benares, Junoon, and The Café at the Rubin Museum of Art in New York City."
     },
     {
         "id": 2,
         "picture": "https://media.istockphoto.com/id/1142230160/photo/beautiful-chef-working-in-a-kitchen-at-a-restaurant.jpg?s=612x612&w=0&k=20&c=a_e524ohK5mfy8Ef2QyeENKQHShv7z6vv-ZztCUCeCc=",
-        "name": "Maria Garcia",
+        "name": "Naila Sinthia",
         "experience": 7,
         "recipes": 30,
-        "likes": 800
+        "likes": 800,
+        "bio": "Naila Sinthia is an Indian celebrity chef, entrepreneur, and television personality. He is best known as the host of the popular cooking show Khana Khazana, which aired over 800 episodes and became the longest-running show of its kind in Asia. Kapoor has also authored over 150 cookbooks and runs a successful chain of restaurants around the world."
     },
     {
         "id": 3,
         "picture": "https://img.freepik.com/free-photo/portrait-smiling-chef-uniform_329181-675.jpg?w=2000",
-        "name": "David Lee",
+        "name": "Madhur Jaffrey",
         "experience": 5,
         "recipes": 20,
-        "likes": 500
+        "likes": 500,
+        "bio": "Madhur Jaffrey is an Indian-born actress, food and travel writer, and television personality. She has written over 15 cookbooks and is known for introducing Indian cuisine to the Western world. Jaffrey has also acted in several films, including Shakespeare Wallah, for which she won the Best Actress award at the Berlin Film Festival in 1965."
     },
     {
         "id": 4,
@@ -29,15 +32,17 @@
         "name": "Sophie Chen",
         "experience": 3,
         "recipes": 10,
-        "likes": 200
+        "likes": 200,
+        "bio": "Sophie Chen is an Indian-born, British-based Michelin-starred chef, restaurateur, and television personality. He has worked in some of the world's top kitchens, including The Ritz-Carlton and Benaras in London. Kochhar is known for his modern take on Indian cuisine and has won numerous awards for his culinary creations."
     },
     {
         "id": 5,
         "picture": "https://chapspitbeef.com/wp-content/uploads/2018/10/celebrity-chef-tips.jpg",
-        "name": "Michael Brown",
+        "name": "Ranveer Brar",
         "experience": 12,
         "recipes": 60,
-        "likes": 1200
+        "likes": 1200,
+        "bio": "Ranveer Brar is an Indian celebrity chef, restaurateur, and television personality. He has hosted several popular cooking shows, including Breakfast Xpress, Snack Attack, and The Great Indian Rasoi. Brar has also authored several cookbooks and runs a successful chain of restaurants in India and abroad."
     },
     {
         "id": 6,
@@ -45,6 +50,7 @@
         "name": "Emily Davis",
         "experience": 8,
         "recipes": 40,
-        "likes": 900
+        "likes": 900,
+        "bio": "Emily Davis was an Indian cookbook author and chef who wrote over 100 cookbooks and hosted several cooking shows on television. She was known for her simple, easy-to-follow recipes that were accessible to cooks of all levels. Dalal passed away in 2013, but her legacy lives on through her cookbooks and recipes."
     }
 ]
