@@ -5,6 +5,7 @@ const port = process.env.PORT || 5000;
 
 const chefData = require('./data/chef.json')
 const recipes = require('./data/recipe.json')
+const popularFood =require('./data/popularFood.json')
 
 
 app.use(cors());
@@ -21,27 +22,28 @@ app.get('/chef', (req, res) => {
     res.send(recipes)
 })
 
+app.get('/popularfood',(req,res) =>{
+    res.send(popularFood)
+})
+
 
 // to get specific data 
 
 app.get('/chef/:id', (req, res) => {
     const id = req.params.id;
-    console.log(id)
-    const selectedChef = recipes.find(n => n.id == id)
-    res.send(selectedChef)
+    if (id === 0) {
+        res.send(recipes)
+    }
+    else {
+        const selectedChef = recipes.filter(n => n.id == id)
+        res.send(selectedChef)
+    }
+
 })
-
-
-// app.get('/chefdata/:id',(req,res)=>{
-//     const id = req.params.id;
-//     console.log(id);
-//     const job = chefData.find(n => n.id == id)
-//     res.send(job)
-// })
 
 app.get('/chefdata/:id', (req, res) => {
     const id = req.params.id;
-    if (id == 0) {
+    if (id === 0) {
         res.send(chefData)
     }
     else {

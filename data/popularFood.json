@@ -1,0 +1,46 @@
+[
+    { 
+      "id": 1, 
+      "foodurl": "https://www.licious.in/blog/wp-content/uploads/2020/10/butter-chicken--750x750.jpg", 
+      "foodname": "Butter Chicken",
+      "description": "Butter Chicken is a popular Indian dish made with marinated chicken cooked in a creamy tomato sauce with a blend of Indian spices and butter. It is often served with rice or naan bread." ,
+      "views": 659
+    },
+    { 
+      "id": 2, 
+      "foodurl": "https://cdn.britannica.com/35/225835-050-A5CC289A/Indian-one-pot-meal-for-party.jpg", 
+      "foodname": "Biryani",
+      "description": "Biryani is a classic Indian rice dish made with layers of fragrant basmati rice and spiced meat or vegetables. It is often garnished with fried onions, nuts, and raisins and served with raita or other condiments." ,
+      "views": 184
+    },
+    { 
+      "id": 3, 
+      "foodurl": "https://www.seriouseats.com/thmb/4HxqFS6SHsh1XBCXWWHbsyrGOxI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/20210909-SAMOSAS-ANDREWJANJIGIAN-86-ca872c2eae8e4e7eb4e7b47cfad8715e.jpg", 
+      "foodname": "Samosa",
+      "description": "Samosa is a popular Indian snack made with a crispy pastry shell filled with spiced potatoes, peas, and other vegetables or meat. It is often served with chutney or other dipping sauces.",
+      "views": 267 
+    },
+    { 
+      "id": 4, 
+      "foodurl": "https://assets.epicurious.com/photos/60f09a34ae9cc866a51a25d0/16:9/w_6943,h_3905,c_limit/ChickpeaPotatoChaat_RECIPE_071321_19121.jpg", 
+      "foodname": "Chaat",
+      "description": "Chaat is a popular Indian street food made with a combination of crispy fried dough, potatoes, chickpeas, onions, and a blend of tangy and spicy sauces. It is often garnished with cilantro and sev and served in a small bowl or on a plate." ,
+      "views": 546
+    },
+    { 
+      "id": 5, 
+      "foodurl": "https://cdn.apartmenttherapy.info/image/upload/f_jpg,q_auto:eco,c_fill,g_auto,w_1500,ar_16:9/k%2FPhoto%2FSeries%2F2020-07-South-Indian-Chritra-Agrawal%2FDosa%20Making%20-%20How%20to%20steps%2FShot_21_-_Finished_dosas", 
+      "foodname": "Dosa",
+      "description": "Dosa is a thin, crispy crepe made from fermented rice and lentil batter. It is a staple breakfast item in South India and is often served with sambar and coconut chutney." ,
+      "views": 349
+    },
+
+    { "id": 6, 
+    "foodurl": "https://www.cookwithkushi.com/wp-content/uploads/2023/02/tandoori_paneer_tikka_restaurant_style.jpg",
+     "foodname": "Paneer Tikka",
+     "description":"A vegetarian dish made by marinating chunks of paneer (a type of Indian cheese) in a blend of spices and yogurt, and then grilling or baking until charred on the edges. Paneer Tikka is typically served as an appetizer or side dish in Indian cuisine.",
+     "views": 230
+    
+    }
+  ]
+  
