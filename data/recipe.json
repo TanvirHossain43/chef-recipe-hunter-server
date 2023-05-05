@@ -1,17 +1,20 @@
 [
   {
+    "id":1,
     "name": "Butter Chicken",
     "ingredients": "chicken,1 cup yogurt,2 tbsp ginger-garlic paste,2 tsp garam masala,1 tsp red chili powder,1/2 cup butter,2 cups tomato puree,1 cup cream,Salt, to taste,Cilantro leaves, for garnish",
     "method": "Marinate chicken in yogurt, ginger-garlic paste, garam masala, and red chili powder. Melt butter in a pan and add tomato puree. Add marinated chicken and cook until done. Add cream and salt to taste. Garnish with cilantro leaves and serve hot.",
     "foodurl": "https://www.licious.in/blog/wp-content/uploads/2020/10/butter-chicken--750x750.jpg"
   },
   {
+    "id":2,
     "name": "Palak Paneer",
     "ingredients": "2 lbs spinach,1 cup paneer, cubed,1 onion, chopped,2 tsp ginger-garlic paste,1 tsp cumin seeds,1 tsp coriander powder,1/2 tsp turmeric powder,1/2 tsp red chili powder,2 tbsp oil,Salt, to taste",
     "method": "Blanch spinach and puree. Heat oil in a pan and add cumin seeds. Add chopped onion and cook until brown. Add ginger-garlic paste and cook for another minute. Add coriander powder, turmeric powder, red chili powder, and salt. Add spinach puree and cook for a few minutes. Add cubed paneer and cook for a few more minutes. Serve hot with rice or naan.",
     "foodurl":"https://www.indianveggiedelight.com/wp-content/uploads/2017/10/palak-paneer-recipe-featured.jpg"
   },
   {
+    "id":3,
     "name": "Gulab Jamun",
     "ingredients": "1 cup milk powder,1/4 cup all-purpose flour,1/2 tsp baking powder,2 tbsp ghee,1/4 cup milk,Oil, for frying,1 cup sugar,1 cup water,1 tsp cardamom powder",
     "method": "Mix milk powder, all-purpose flour, and baking powder. Add ghee and mix well. Add milk and make a smooth dough. Heat oil in a pan. Shape dough into small balls and fry until golden brown. In another pan, heat sugar, water, and cardamom powder to make syrup. Add fried balls to syrup and soak for a few minutes. Serve hot or cold.",
